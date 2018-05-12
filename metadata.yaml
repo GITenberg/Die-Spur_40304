@@ -1,0 +1,27 @@
+_repo: Die-Spur_40304
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40304-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Viertel, Berthold
+    birthdate: 1885
+    deathdate: 1953
+    gutenberg_agent_id: '40541'
+    url: http://www.gutenberg.org/2009/agents/40541
+description: ''
+gutenberg_bookshelf: DE Lyrik
+gutenberg_issued: '2012-07-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40304'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Austrian poetry -- 20th century'
+- !lcc 'PT'
+title: Die Spur
+url: http://www.gutenberg.org/ebooks/40304
