@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '40541'
     url: http://www.gutenberg.org/2009/agents/40541
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40304#Die-Spur
 gutenberg_bookshelf: DE Lyrik
 gutenberg_issued: '2012-07-23'
 gutenberg_type: Text
